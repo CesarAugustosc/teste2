@@ -18,7 +18,7 @@ public class Teste2 {
         // TODO code application logic here
         System.out.println("Teste de Aplicação com GITHUB");
         System.out.println("Teste de Aplicação com GITHUB");
-        System.out.println("Teste de Aplicação com GITHUB");
+        System.out.println("COm ela nao tem K O");
         System.out.println("LÇSKALDÇSAKDLÇSAK");
     }
     
